@@ -1,43 +1,107 @@
 # 🎯 Guess the Number - Java Console Game
 
-![Guess the Number Game Banner](./A_2D_digital_graphic_for_a_Java_console_game_title.png)
+<img src="./A_2D_digital_graphic_for_a_Java_console_game_title.png" width="100%">
 
-## 🎮 Game Description | Oyun Açıklaması
-
-**EN:**  
-"Guess the Number" is a simple Java console-based game. The computer randomly selects a number, and your goal is to guess it in as few attempts as possible. After each guess, the program gives you a hint: too low, too high, or correct.
-
-**TR:**  
-"Guess the Number", Java ile geliştirilmiş basit bir konsol oyunudur. Bilgisayar rastgele bir sayı seçer ve oyuncu bu sayıyı mümkün olan en az denemede tahmin etmeye çalışır. Her tahmin sonrası kullanıcıya ipucu verilir: çok düşük, çok yüksek ya da doğru.
+Welcome to the **Guess the Number** Java console game repository! This project is designed for Java beginners who want to practice control structures, user input, and logic building. It’s a fun and interactive way to strengthen your programming skills.
 
 ---
 
-## 🚀 Features | Özellikler
+## 🎯 Game Overview
 
-- Random number generation  
-- User input and feedback  
-- Attempt counter  
-- Clean and simple code structure  
-- Console-based interaction  
+- **Objective:** The computer randomly selects a number between 1 and 100. Your task is to guess the number with the help of hints: “too high”, “too low” or “correct”.
+- **Tech Stack:** Java SE (Standard Edition)
+- **Difficulty:** Beginner Friendly
+- **Interface:** Terminal (Console-based)
 
 ---
 
-## 🛠️ How to Run | Nasıl Çalıştırılır?
+## 📦 Project Structure
 
-### Requirements | Gereksinimler:
-- Java JDK 8 veya üzeri  
-- Bir metin editörü veya IDE (Örn: IntelliJ IDEA, VS Code)
+GuessNumberGame/
+├── GuessNumberGame.java # Main game logic
+├── README.md # Documentation
+└── A_2D_digital_graphic_for_a_Java_console_game_title.png # Project banner
 
-### Steps | Adımlar:
-1. Bu repository’yi klonla:  
-   `git clone https://github.com/kullaniciAdin/GuessNumberGame.git`
-2. `GuessNumberGame.java` dosyasını aç
-3. Derlemek için:  
+yaml
+Kopyala
+Düzenle
+
+---
+
+## 💻 How to Run
+
+### Requirements:
+- Java JDK 8 or higher
+- A terminal or IDE (IntelliJ IDEA, Eclipse, VS Code)
+
+### Steps:
+1. Clone the repository:  
+   `git clone https://github.com/YourUsername/GuessNumberGame.git`
+
+2. Compile the Java file:  
    `javac GuessNumberGame.java`
-4. Çalıştırmak için:  
+
+3. Run the program:  
    `java GuessNumberGame`
 
 ---
 
-## 🧠 Sample Output | Örnek Çıktı
+## 📸 Sample Game Output
 
+Welcome to Guess the Number!
+I'm thinking of a number between 1 and 100.
+Enter your guess: 50
+Too low! Try again.
+Enter your guess: 75
+Too high! Try again.
+Enter your guess: 63
+Correct! You guessed the number in 3 tries.
+
+yaml
+Kopyala
+Düzenle
+
+---
+
+## 🧠 Learning Focus
+
+| Topic | Description |
+|-------|-------------|
+| `Random` class | To generate the secret number |
+| `Scanner` class | To get user input from the console |
+| `if-else` & loops | For logic control |
+| `Basic debugging` | To improve logic and handle input edge cases |
+
+---
+
+## 🗃️ Similar Learning Projects
+
+| Project Name | Description |
+|--------------|-------------|
+| Calculator App | Basic arithmetic operations using Java |
+| Rock-Paper-Scissors Game | Practice conditionals and loops |
+| Number Sorting Tool | Arrays and user input handling |
+
+---
+
+## 📚 Additional Resources
+
+| Resource | Link |
+|----------|------|
+| Java Tutorials (Oracle) | [oracle.com](https://docs.oracle.com/javase/tutorial/) |
+| W3Schools Java | [w3schools.com/java](https://www.w3schools.com/java/) |
+| Baeldung Java Guides | [baeldung.com](https://www.baeldung.com/) |
+| GeeksforGeeks Java | [geeksforgeeks.org/java](https://www.geeksforgeeks.org/java/) |
+
+---
+
+## 🙋 Author
+
+- **Name:** [Your Name or Nickname]
+- **GitHub:** [@YourGitHubUsername](https://github.com/YourGitHubUsername)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License. See the LICENSE file for details.

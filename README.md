@@ -1,6 +1,6 @@
 # 🎯 Guess the Number - Java Console Game
 
-![Guess Number Banner](https://github.com/NuhDemir/GuessNumberGame/blob/main/A_2D_digital_graphic_for_a_Java_console_game_title.png?raw=true)
+![Guess Number Banner](https://raw.githubusercontent.com/NuhDemir/GuessNumberGame/refs/heads/main/img/guessNumber.png?raw=true)
 
 <img src="https://raw.githubusercontent.com/NuhDemir/GuessNumberGame/img/guessNumber.png" weight="526px" height="430px">
 

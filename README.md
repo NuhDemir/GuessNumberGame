@@ -1,6 +1,6 @@
 # 🎯 Guess the Number - Java Console Game
 
-<img src="./img/A_2D_digital_graphic_for_a_Java_console_game_title.png" width="50%">
+<img src="https://raw.githubusercontent.com/NuhDemir/GuessNumberGame/img/guessNumber.png" weight="526px" height="430px">
 
 Welcome to the **Guess the Number** Java console game repository! This project is designed for Java beginners who want to practice control structures, user input, and logic building. It’s a fun and interactive way to strengthen your programming skills.
 
